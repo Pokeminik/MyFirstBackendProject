@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyFirstAsyncApp/1.0.0": {
+        "runtime": {
+          "MyFirstAsyncApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstAsyncApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

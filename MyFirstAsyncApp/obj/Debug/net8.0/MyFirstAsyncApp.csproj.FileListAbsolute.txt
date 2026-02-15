@@ -1,0 +1,14 @@
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.AssemblyInfoInputs.cache
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.AssemblyInfo.cs
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.csproj.CoreCompileInputs.cache
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\bin\Debug\net8.0\MyFirstAsyncApp.exe
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\bin\Debug\net8.0\MyFirstAsyncApp.deps.json
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\bin\Debug\net8.0\MyFirstAsyncApp.runtimeconfig.json
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\bin\Debug\net8.0\MyFirstAsyncApp.dll
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\bin\Debug\net8.0\MyFirstAsyncApp.pdb
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.dll
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\refint\MyFirstAsyncApp.dll
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.pdb
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.genruntimeconfig.cache
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\ref\MyFirstAsyncApp.dll
