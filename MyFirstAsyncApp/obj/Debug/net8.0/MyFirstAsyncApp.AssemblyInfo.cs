@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstAsyncApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6812ebd8b9245a1a640295a10696250e8394a39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstAsyncApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstAsyncApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
