@@ -15,5 +15,7 @@ namespace MyFirstAsyncApp
         public string Category { get; set; }
         public DateTime IssueDate { get; set; }
         public DateTime? ExpirationDate { get; set; }
+
+        public DateTime? ExpirationDate112 { get; set; }
     }
 }
