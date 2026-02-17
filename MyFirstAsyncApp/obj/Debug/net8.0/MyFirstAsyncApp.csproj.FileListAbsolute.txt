@@ -12,3 +12,4 @@ D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\refint\MyFirstAsy
 D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.pdb
 D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.genruntimeconfig.cache
 D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\ref\MyFirstAsyncApp.dll
+D:\myprojects\MyFirstAsyncApp\MyFirstAsyncApp\obj\Debug\net8.0\MyFirstAsyncApp.sourcelink.json
